@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Lê Minh Thanh",
+        "phone" : "0348450688",
+        "privilege" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Đinh Xuân Canh",
+        "phone" : "0348450677",
+        "privilege" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Nguyễn Tin Tin",
+        "phone" : "0348450688",
+        "privilege" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Tôn Tẫn",
+        "phone" : "0348450688",
+        "privilege" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Bàng Quyên",
+        "phone" : "0348450688",
+        "privilege" : 1
+    }
+]
